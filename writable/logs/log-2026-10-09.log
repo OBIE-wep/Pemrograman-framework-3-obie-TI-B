@@ -1,0 +1,20 @@
+CRITICAL - 2026-10-09 02:46:27 --> ErrorException: Cannot declare class App\Controllers\Profil, because the name is already in use
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-10-09 02:53:44 --> ErrorException: Cannot declare class App\Controllers\Profil, because the name is already in use
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-10-09 03:15:27 --> ErrorException: Cannot declare class App\Controllers\Profil, because the name is already in use
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-10-09 03:27:39 --> ErrorException: Cannot declare class App\Controllers\Profil, because the name is already in use
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-10-09 03:42:48 --> ErrorException: Cannot declare class App\Controllers\Profil, because the name is already in use
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
